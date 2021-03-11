@@ -1,0 +1,24 @@
+html{overflow-x:hidden!important}
+body{font-family:'微软雅黑';overflow-x:hidden;margin:0;padding:0;}
+a,img{-webkit-touch-callout:none}
+a{text-decoration:none!important}
+li,ol,ul{list-style:none}
+.left{float:left}
+.right{float:right}
+.clear{clear:both}
+
+.an,.ios{padding:0.15rem;width:86%;margin:0 auto 0.1rem;font-size:0.38rem;line-height:1.4;display: none;border: 1px dashed #b1b1b1;border-radius: 5px}
+.download_top{position:fixed;top:0;left:0;z-index: 9999;opacity: 0.7}
+.free_download{width:100%;text-align:center}
+.free_download img{width:65%;margin:0.4rem auto}
+.intro{background:#e3e7eb}
+.daoju{width:100%;text-align:center;color:#ec48a3;font-size:0.42rem;font-weight:bold;line-height:1.5}
+.miaoshu{width:86%;margin:0.2rem auto;font-size:0.38rem;line-height:1.4}
+.fg{width:96%;border-bottom:1px dashed #b1b1b1;margin:0.3rem auto 0}
+.live,.comment,.kf_box{background: #fff}
+.kf_box{width: 100%;margin:0.3rem auto 0.5rem;text-align: center}
+.kf_box img{width:50%}
+/*footer{width: 100%;background-color:#000;text-align:center;padding:10px;color:#fff;}*/
+footer{width: 100%;}
+footer a{color:#fff;}
+footer img{width: 100%;}

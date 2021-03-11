@@ -32,7 +32,7 @@ body{overflow:hidden;}
   width: 40px;
   height: 40px;
   z-index: 9;
-  background-image: url(https://cdn.jsdelivr.net/gh/luolishe/txlnewqd@main/list/images/logo_white.svg);
+  background-image: url(../images/logo_white.svg);
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: 10px 7px;
@@ -62,19 +62,19 @@ body{overflow:hidden;}
   transition: all 0.8s ease;
 }
 .about .social.portfolio .icon {
-  background-image: url(https://cdn.jsdelivr.net/gh/luolishe/txlnewqd@main/list/images/link.svg);
+  background-image: url(../images/link.svg);
 }
 .about .social.dribbble {
   transition: all 0.3s ease;
 }
 .about .social.dribbble .icon {
-  background-image: url(https://cdn.jsdelivr.net/gh/luolishe/txlnewqd@main/list/images/dribbble.svg);
+  background-image: url(../images/dribbble.svg);
 }
 .about .social.linkedin {
   transition: all 0.8s ease;
 }
 .about .social.linkedin .icon {
-  background-image: url(https://cdn.jsdelivr.net/gh/luolishe/txlnewqd@main/list/images/linkedin.svg);
+  background-image: url(../images/linkedin.svg);
 }
 .about:hover {
   width: 105px;
@@ -455,13 +455,13 @@ nav .menu .menu_icon:hover .icon:after {
 }
 .wrapper .container .text article p {
   color: white;
-  font-size: 18px;
+  font-size: 35px;  /*字体大小*/
   letter-spacing: 0.6px;
-  margin-bottom: 40px;
+  margin-bottom: 27px;
   text-shadow: 6px 6px 10px #32243E;
 }
 .wrapper .container .text article button {
-  height: 40px;
+  height: 43px;
   padding: 0 30px;
   border-radius: 50px;
   cursor: pointer;
@@ -471,7 +471,7 @@ nav .menu .menu_icon:hover .icon:after {
   background-color: white;
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 34px;
   transition: all 0.3s ease;
 }
 .wrapper .container .text article button:hover {
